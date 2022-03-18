@@ -7,7 +7,8 @@ Learn C Graphics is a webportal which has all content related to C Graphics Prog
 It also has some tutorials to draws some fancy designs using grahics programming.
 it also has tutorials to develop some basic 2D games using c graphics.
 
-<h1>Home Page</h1>
+<h1>Home Page</h1>.
+
 ![](https://github.com/rajeshbairu-github/Learn-C-Graphics-Website-/blob/main/1.JPG)
 Graphics Introduction page
 ![](https://github.com/rajeshbairu-github/Learn-C-Graphics-Website-/blob/main/2.JPG)
